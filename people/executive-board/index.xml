@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>IMMERSE Executive Board on Immerse</title>
+    <link>https://immerse-ocean.eu/people/executive-board/</link>
+    <description>Recent content in IMMERSE Executive Board on Immerse</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2019-present IMMERSE consortium</copyright>
+    
+	<atom:link href="https://immerse-ocean.eu/people/executive-board/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

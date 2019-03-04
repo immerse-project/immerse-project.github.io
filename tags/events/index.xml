@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Events on Immerse</title>
+    <link>https://immerse-ocean.eu/tags/events/</link>
+    <description>Recent content in Events on Immerse</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2019-present IMMERSE consortium</copyright>
+    <lastBuildDate>Sun, 10 Feb 2019 13:23:10 +0100</lastBuildDate>
+    
+	<atom:link href="https://immerse-ocean.eu/tags/events/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>IMMERSE Kick-Off meeting on Jan 24-25, 2019</title>
+      <link>https://immerse-ocean.eu/post/2019-02-10-project-kick-off-meeting/</link>
+      <pubDate>Sun, 10 Feb 2019 13:23:10 +0100</pubDate>
+      
+      <guid>https://immerse-ocean.eu/post/2019-02-10-project-kick-off-meeting/</guid>
+      <description>IMMERSE project was officially launched on 24 and 25 January 2019 in Grenoble during the kick-off meeting with fourteen project partners. This kick-off meeting was an opportunity for the consortium to discuss the project methodology, the different activities to be implemented and the upcoming deadlines.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Immerse</title>
+    <link>https://immerse-ocean.eu/home/</link>
+    <description>Recent content in Homes on Immerse</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2019-present IMMERSE consortium</copyright>
+    
+	<atom:link href="https://immerse-ocean.eu/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://immerse-ocean.eu/home/hero_carousel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://immerse-ocean.eu/home/hero_carousel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://immerse-ocean.eu/home/hero/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://immerse-ocean.eu/home/hero/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://immerse-ocean.eu/home/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://immerse-ocean.eu/home/about/</guid>
+      <description>Our project aims to prepare numerical ocean models for the next generation Copernicus Marine Environment Monitoring Service (CMEMS).
+In response to the future priorities for CMEMS, IMMERSE will develop new capabilities to:
+ enable the production of ocean forecasts and analyses that exploit upcoming high resolution satellite datasets; deliver ocean analyses and forecasts with the higher spatial resolution and additional process complexity demanded by users; exploit the opportunities of new high performance computing (HPC) technology; allow easy interfacing of CMEMS products with detailed local coastal models.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://immerse-ocean.eu/home/activities/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://immerse-ocean.eu/home/activities/</guid>
+      <description> Methodology  IMMERSE project integrates activities ranging from NEMO ocean model core development to demonstration for Copernicus Marine Services downstream users.
+  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://immerse-ocean.eu/home/partners/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://immerse-ocean.eu/home/partners/</guid>
+      <description>Partners  The IMMERSE consortium combines expertise in ocean modelling, applied mathematics, high performance computing, software engineering, and in-depth knowledge of the CMEMS systems and downstream CMEMS systems.</description>
+    </item>
+    
+    <item>
+      <title>Recent Posts</title>
+      <link>https://immerse-ocean.eu/home/posts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://immerse-ocean.eu/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://immerse-ocean.eu/home/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://immerse-ocean.eu/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
