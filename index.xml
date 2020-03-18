@@ -7,8 +7,46 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2019-present IMMERSE consortium</copyright>
-    <lastBuildDate>Sun, 10 Feb 2019 13:23:10 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 03 Nov 2019 16:18:43 +0100</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Deliverable 1.1 - Public website</title>
+      <link>https://immerse-ocean.eu/deliverables/deliv1-1/</link>
+      <pubDate>Sun, 03 Nov 2019 16:18:43 +0100</pubDate>
+      
+      <guid>https://immerse-ocean.eu/deliverables/deliv1-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deliverable 1.4 - Data Management Plan</title>
+      <link>https://immerse-ocean.eu/deliverables/deliv1-4/</link>
+      <pubDate>Sun, 03 Nov 2019 16:18:43 +0100</pubDate>
+      
+      <guid>https://immerse-ocean.eu/deliverables/deliv1-4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title> Webinar Downstream Toolbox</title>
+      <link>https://immerse-ocean.eu/post/2019-04-07-webinar-downstream-toolbox/</link>
+      <pubDate>Mon, 08 Apr 2019 17:03:13 +0200</pubDate>
+      
+      <guid>https://immerse-ocean.eu/post/2019-04-07-webinar-downstream-toolbox/</guid>
+      <description>&lt;p&gt;On April 5th 2019, the IMMERSE Users Remote Workshop was held to introduce the IMMERSE interfaces to the CMEMS users community and coastal modellers, outside the project. The webinar was organized by CMCC Foundation and NOC.&lt;/p&gt;
+
+&lt;p&gt;After a brief introduction to present the IMMERSE project and the Task 7.3 by Dorotea Iovino (CMCC), Yann Drillet from Mercator Ocean presented CMEMS and its main actions on Marine Services &amp;amp; System Evolutions, and the structure of DIAS « WekEO ». WekEO is the EU Copernicus reference service for environmental data, virtual processing environment and skilled user support that IMMERSE aims to connect in the mid-term project implementation.&lt;/p&gt;
+
+&lt;p&gt;Stefania Ciliberti, Laura Stefanizz (CMCC) and Michaela De Dominicis (NOC) then presented the prototype toolbox framework for seamless uptake of CMEMS products in downstream monitoring systems. As a starting point, a number of tools/approaches currently used by CMCC and NOC research applications are shared within IMMERSE community, as PyNEMO (in use at NOC) and the SURF pre-processing interphase (in use at CMCC).&lt;/p&gt;
+
+&lt;p&gt;In total, 131 experts registered to IMMERSE User Remote Workshop and 74 people from CMEMS community, research &amp;amp; academia, business sector and public authorities attended.&lt;/p&gt;
+
+&lt;p&gt;A questionnaire for getting back feedbacks has been prepared and presented to users. Several questions have been raised by attendees, spanning from general information on CMEMS and the use of high quality products in models setup to specific information about numerical approaches for solving high resolution ocean-to-coastal processes and the use, by means of IMMERSE interfaces, of data from CMEMS and other international initiatives to improve the quality of downstream services.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://immerse-ocean.eu/img/posts/immerse-interface-webinar_2019-04-05.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>IMMERSE Kick-Off meeting on Jan 24-25, 2019</title>

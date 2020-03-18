@@ -11,5 +11,14 @@
 	<atom:link href="https://immerse-ocean.eu/authors/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Julien Le Sommer</title>
+      <link>https://immerse-ocean.eu/authors/julien-le-sommer/</link>
+      <pubDate>Sun, 03 Nov 2019 16:18:43 +0100</pubDate>
+      
+      <guid>https://immerse-ocean.eu/authors/julien-le-sommer/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
