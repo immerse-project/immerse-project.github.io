@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Deliverables on IMMERSE project website</title>
+    <title>Project public deliverables on IMMERSE project website</title>
     <link>https://immerse-ocean.eu/deliverables/</link>
-    <description>Recent content in Deliverables on IMMERSE project website</description>
+    <description>Recent content in Project public deliverables on IMMERSE project website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2019-present IMMERSE consortium</copyright>
@@ -13,20 +13,20 @@
     
     
     <item>
-      <title>Deliverable 1.1 - Public website</title>
-      <link>https://immerse-ocean.eu/deliverables/deliv1-1/</link>
+      <title>D1.1 - Public website</title>
+      <link>https://immerse-ocean.eu/deliverables/d1.1/</link>
       <pubDate>Sun, 03 Nov 2019 16:18:43 +0100</pubDate>
       
-      <guid>https://immerse-ocean.eu/deliverables/deliv1-1/</guid>
+      <guid>https://immerse-ocean.eu/deliverables/d1.1/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Deliverable 1.4 - Data Management Plan</title>
-      <link>https://immerse-ocean.eu/deliverables/deliv1-4/</link>
+      <title>D1.4 -  Data Management Plan</title>
+      <link>https://immerse-ocean.eu/deliverables/d1.4/</link>
       <pubDate>Sun, 03 Nov 2019 16:18:43 +0100</pubDate>
       
-      <guid>https://immerse-ocean.eu/deliverables/deliv1-4/</guid>
+      <guid>https://immerse-ocean.eu/deliverables/d1.4/</guid>
       <description></description>
     </item>
     
