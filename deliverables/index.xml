@@ -30,5 +30,86 @@
       <description></description>
     </item>
     
+    <item>
+      <title>D1.5 - Outreach video</title>
+      <link>https://immerse-ocean.eu/deliverables/d1.5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://immerse-ocean.eu/deliverables/d1.5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>D2.2 - Protocole for sharing NEMO configurations</title>
+      <link>https://immerse-ocean.eu/deliverables/d2.2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://immerse-ocean.eu/deliverables/d2.2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>D2.4 - NEMO v4.2_RC beta release</title>
+      <link>https://immerse-ocean.eu/deliverables/d2.4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://immerse-ocean.eu/deliverables/d2.4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>D3.3 - Report on pressure forces and vertical discretization</title>
+      <link>https://immerse-ocean.eu/deliverables/d3.3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://immerse-ocean.eu/deliverables/d3.3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>D4.2 - Report on BGC coupling interface</title>
+      <link>https://immerse-ocean.eu/deliverables/d4.2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://immerse-ocean.eu/deliverables/d4.2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>D7.1 - Tools for estimating forecast errors</title>
+      <link>https://immerse-ocean.eu/deliverables/d7.1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://immerse-ocean.eu/deliverables/d7.1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>D7.2 - Report on the predictability of oceanic fine scales</title>
+      <link>https://immerse-ocean.eu/deliverables/d7.2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://immerse-ocean.eu/deliverables/d7.2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>D7.3 - Report on error forecasts</title>
+      <link>https://immerse-ocean.eu/deliverables/d7.3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://immerse-ocean.eu/deliverables/d7.3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>D7.4 - Python coupling toolkit</title>
+      <link>https://immerse-ocean.eu/deliverables/d7.4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://immerse-ocean.eu/deliverables/d7.4/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
