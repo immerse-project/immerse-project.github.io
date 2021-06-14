@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Immerse</title>
+    <title>Tags on IMMERSE project website</title>
     <link>https://immerse-ocean.eu/tags/</link>
-    <description>Recent content in Tags on Immerse</description>
+    <description>Recent content in Tags on IMMERSE project website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2019-present IMMERSE consortium</copyright>
-    <lastBuildDate>Mon, 08 Apr 2019 17:03:13 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 14 Jun 2021 08:23:10 +0100</lastBuildDate>
     
 	<atom:link href="https://immerse-ocean.eu/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Events</title>
       <link>https://immerse-ocean.eu/tags/events/</link>
-      <pubDate>Mon, 08 Apr 2019 17:03:13 +0200</pubDate>
+      <pubDate>Mon, 14 Jun 2021 08:23:10 +0100</pubDate>
       
       <guid>https://immerse-ocean.eu/tags/events/</guid>
       <description></description>

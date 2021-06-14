@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Homes on Immerse</title>
+    <title>Homes on IMMERSE project website</title>
     <link>https://immerse-ocean.eu/home/</link>
-    <description>Recent content in Homes on Immerse</description>
+    <description>Recent content in Homes on IMMERSE project website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2019-present IMMERSE consortium</copyright>
@@ -41,21 +41,21 @@
     
     <item>
       <title></title>
+      <link>https://immerse-ocean.eu/home/partners/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://immerse-ocean.eu/home/partners/</guid>
+      <description>Partners  The IMMERSE consortium combines expertise in ocean modelling, applied mathematics, high performance computing, software engineering, and in-depth knowledge of the CMEMS systems and downstream CMEMS systems.</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://immerse-ocean.eu/home/activities/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://immerse-ocean.eu/home/activities/</guid>
       <description> Methodology  IMMERSE project integrates activities ranging from NEMO ocean model core development to demonstration for Copernicus Marine Services downstream users.
   </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://immerse-ocean.eu/home/partners/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://immerse-ocean.eu/home/partners/</guid>
-      <description>Partners  The IMMERSE consortium combines expertise in ocean modelling, applied mathematics, high performance computing, software engineering, and in-depth knowledge of the CMEMS systems and downstream CMEMS systems.</description>
     </item>
     
     <item>

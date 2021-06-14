@@ -1,14 +1,62 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Immerse on Immerse</title>
+    <title>IMMERSE project website on IMMERSE project website</title>
     <link>https://immerse-ocean.eu/</link>
-    <description>Recent content in Immerse on Immerse</description>
+    <description>Recent content in IMMERSE project website on IMMERSE project website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2019-present IMMERSE consortium</copyright>
-    <lastBuildDate>Sun, 03 Nov 2019 16:18:43 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 14 Jun 2021 08:23:10 +0100</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>A new forum for the NEMO users community </title>
+      <link>https://immerse-ocean.eu/post/2021-06-14-new-nemo-users-forum/</link>
+      <pubDate>Mon, 14 Jun 2021 08:23:10 +0100</pubDate>
+      
+      <guid>https://immerse-ocean.eu/post/2021-06-14-new-nemo-users-forum/</guid>
+      <description>&lt;p&gt;The need for setting up a new forum for NEMO users to share experience and tips was raised during on of the splinter session of our general assembly in March 2021. In response to this need the NEMO system team opened a new forum on &lt;em&gt;discourse&lt;/em&gt; a week ago. Open 7 days ago the forum has already 57 registered users !  Thanks to the NEMO system team for its reactivity ! We are looking foreward to share our experience with NEMO with you all on this new plateform !&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://nemo-ocean.discourse.group&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://immerse-ocean.eu/img/posts/immerse-nemo-users-forum-2021.jpg&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A session dedicated to NEMO development at vEGU2021</title>
+      <link>https://immerse-ocean.eu/post/2021-04-26-virtual-egu-session/</link>
+      <pubDate>Mon, 26 Apr 2021 13:23:10 +0100</pubDate>
+      
+      <guid>https://immerse-ocean.eu/post/2021-04-26-virtual-egu-session/</guid>
+      <description>&lt;p&gt;The IMMERSE consortium has organized a session dedicated to the numerical modelling of ocean circulation jointly supported by the NEMO consortium at vEGU2021. Several of the new developments to NEMO supported by IMMERSE have been presented during this vibrant session. We are now all looking foreward to meet again in person next year !&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://meetingorganizer.copernicus.org/EGU21/session/39731&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://immerse-ocean.eu/img/posts/immerse-vEGU2021-session.png&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>IMMERSE Virtual General Assembly on March 3-5, 2021</title>
+      <link>https://immerse-ocean.eu/post/2021-03-10-virtual-general-assembly/</link>
+      <pubDate>Wed, 10 Mar 2021 13:23:10 +0100</pubDate>
+      
+      <guid>https://immerse-ocean.eu/post/2021-03-10-virtual-general-assembly/</guid>
+      <description>&lt;p&gt;The project general assembly was held virtually on March 3-5. About 80 participants and key stakeholder have registered to our plenary sessions and splinter discussions. A great time for us to take stock of the project progress and refine our plans for the coming months.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://immerse-ocean.eu/img/posts/immerse-intro-slide_ga-2021.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>IMMERSE General Assembly and review meeting on Dec 12-13, 2019</title>
+      <link>https://immerse-ocean.eu/post/2019-12-15-general-assembly-and-review/</link>
+      <pubDate>Sun, 15 Dec 2019 13:23:10 +0100</pubDate>
+      
+      <guid>https://immerse-ocean.eu/post/2019-12-15-general-assembly-and-review/</guid>
+      <description>&lt;p&gt;The project general assembly was held in Paris on 12-13 Dec 2019. We decided to gather at teh same location and time as the NEMO System Team for its annual merge party. The first two years of IMMERSE indeed mostly consist in developments to the NEMO ocean model and this is why we articulat our agenda and activities with the NEMO consortium. The meeting consisted in a combination of talks reviewing the project progress and more in depth scientific presentations. See you all next year !&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://immerse-ocean.eu/img/posts/immerse-agenda-general-assembly-dec2019.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Deliverable 1.1 - Public website</title>
