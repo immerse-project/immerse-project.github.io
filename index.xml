@@ -7,8 +7,26 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2019-present IMMERSE consortium</copyright>
-    <lastBuildDate>Mon, 14 Jun 2021 08:23:10 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 15 Jun 2021 00:00:00 +0200</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>A simplified atmospheric boundary layer model for an improved representation of air–sea interactions in eddying oceanic models: implementation and first evaluation in NEMO (4.0)</title>
+      <link>https://immerse-ocean.eu/publications/gmd-14-543-2021/</link>
+      <pubDate>Tue, 15 Jun 2021 00:00:00 +0200</pubDate>
+      
+      <guid>https://immerse-ocean.eu/publications/gmd-14-543-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Parcels v2.0 Lagrangian framework: new field interpolation schemes</title>
+      <link>https://immerse-ocean.eu/publications/gmd-12-3571-2019/</link>
+      <pubDate>Tue, 15 Jun 2021 00:00:00 +0200</pubDate>
+      
+      <guid>https://immerse-ocean.eu/publications/gmd-12-3571-2019/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A new forum for the NEMO users community </title>
@@ -16,7 +34,7 @@
       <pubDate>Mon, 14 Jun 2021 08:23:10 +0100</pubDate>
       
       <guid>https://immerse-ocean.eu/post/2021-06-14-new-nemo-users-forum/</guid>
-      <description>&lt;p&gt;The need for setting up a new forum for NEMO users to share experience and tips was raised during on of the splinter session of our general assembly in March 2021. In response to this need the NEMO system team opened a new forum on &lt;em&gt;discourse&lt;/em&gt; a week ago. Open 7 days ago the forum has already 57 registered users !  Thanks to the NEMO system team for its reactivity ! We are looking forward to share our experience with NEMO with you all on this new plateform !&lt;/p&gt;
+      <description>&lt;p&gt;The need for setting up a new forum for NEMO users to share experience and tips was raised during one of the splinter sessions of our general assembly in March 2021. In response to this need, the NEMO system team opened a new forum on &lt;em&gt;discourse&lt;/em&gt; a week ago. Open 7 days ago the forum has already 57 registered users !  Thanks to the NEMO system team for its reactivity ! We are looking forward to share our experience with NEMO with you all on this new plateform !&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://nemo-ocean.discourse.group&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://immerse-ocean.eu/img/posts/immerse-nemo-users-forum-2021.jpg&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
@@ -150,24 +168,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://immerse-ocean.eu/deliverables/d7.1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>D7.2 - Report on the predictability of oceanic fine scales</title>
-      <link>https://immerse-ocean.eu/deliverables/d7.2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://immerse-ocean.eu/deliverables/d7.2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>D7.3 - Report on error forecasts</title>
-      <link>https://immerse-ocean.eu/deliverables/d7.3/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://immerse-ocean.eu/deliverables/d7.3/</guid>
       <description></description>
     </item>
     

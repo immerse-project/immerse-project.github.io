@@ -4,6 +4,22 @@
     
     <url>
     
+      <loc>https://immerse-ocean.eu/publications/gmd-14-543-2021/</loc>
+      <lastmod>2021-06-15T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://immerse-ocean.eu/publications/gmd-12-3571-2019/</loc>
+      <lastmod>2021-06-15T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://immerse-ocean.eu/post/2021-06-14-new-nemo-users-forum/</loc>
       <lastmod>2021-06-14T08:23:10+01:00</lastmod>
     </url>
@@ -139,15 +155,17 @@
     
     <url>
     
-      <loc>https://immerse-ocean.eu/publications/</loc>
+      <loc>https://immerse-ocean.eu/publication_types/1/</loc>
+      <lastmod>2019-11-03T16:18:43+01:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
     
     <url>
     
-      <loc>https://immerse-ocean.eu/publication_types/1/</loc>
-      <lastmod>2019-11-03T16:18:43+01:00</lastmod>
+      <loc>https://immerse-ocean.eu/categories/3/</loc>
+      <lastmod>2021-06-15T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -172,6 +190,7 @@
     <url>
     
       <loc>https://immerse-ocean.eu/categories/</loc>
+      <lastmod>2021-06-15T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -266,7 +285,7 @@
     <url>
     
       <loc>https://immerse-ocean.eu/</loc>
-      <lastmod>2021-06-14T08:23:10+01:00</lastmod>
+      <lastmod>2021-06-15T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -299,6 +318,14 @@
     
     <url>
     
+      <loc>https://immerse-ocean.eu/publications/</loc>
+      <lastmod>2021-06-15T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://immerse-ocean.eu/publication_types/</loc>
       <lastmod>2019-11-03T16:18:43+01:00</lastmod>
       <priority>0</priority>
@@ -310,6 +337,24 @@
     
       <loc>https://immerse-ocean.eu/tags/</loc>
       <lastmod>2021-06-14T08:23:10+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://immerse-ocean.eu/tags/wp5/</loc>
+      <lastmod>2021-06-15T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://immerse-ocean.eu/tags/wp8/</loc>
+      <lastmod>2021-06-15T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     

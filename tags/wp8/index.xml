@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>WP8 on IMMERSE project website</title>
+    <link>https://immerse-ocean.eu/tags/wp8/</link>
+    <description>Recent content in WP8 on IMMERSE project website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2019-present IMMERSE consortium</copyright>
+    <lastBuildDate>Tue, 15 Jun 2021 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://immerse-ocean.eu/tags/wp8/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Parcels v2.0 Lagrangian framework: new field interpolation schemes</title>
+      <link>https://immerse-ocean.eu/publications/gmd-12-3571-2019/</link>
+      <pubDate>Tue, 15 Jun 2021 00:00:00 +0200</pubDate>
+      
+      <guid>https://immerse-ocean.eu/publications/gmd-12-3571-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
