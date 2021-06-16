@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2019-present IMMERSE consortium</copyright>
-    <lastBuildDate>Tue, 15 Jun 2021 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 16 Jun 2021 17:14:22 +0200</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>2021 06 16 Nemo Beta Release</title>
+      <link>https://immerse-ocean.eu/post/2021-06-16-nemo-beta-release/</link>
+      <pubDate>Wed, 16 Jun 2021 17:14:22 +0200</pubDate>
+      
+      <guid>https://immerse-ocean.eu/post/2021-06-16-nemo-beta-release/</guid>
+      <description>&lt;p&gt;After 30 months of efforts and a global pandemics, the IMMERSE project team and the NEMO system team are glad to officially announce the beta-release of NEMO version 4.2 almost on time ! Congratulations to all the NEMO developpers for this major contribution to the evolution of CMEMS services.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://nemo-ocean.discourse.group/t/announcing-the-4-2-release-candidate-and-call-for-beta-testers/86&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://immerse-ocean.eu/img/posts/nemo-4.2_RC-release-june2021.jpg&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>A simplified atmospheric boundary layer model for an improved representation of air–sea interactions in eddying oceanic models: implementation and first evaluation in NEMO (4.0)</title>
@@ -159,15 +171,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://immerse-ocean.eu/deliverables/d4.2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>D7.1 - Python tools for estimating forecast error covariances</title>
-      <link>https://immerse-ocean.eu/deliverables/d7.1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://immerse-ocean.eu/deliverables/d7.1/</guid>
       <description></description>
     </item>
     

@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2019-present IMMERSE consortium</copyright>
-    <lastBuildDate>Mon, 14 Jun 2021 08:23:10 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 16 Jun 2021 17:14:22 +0200</lastBuildDate>
     
 	<atom:link href="https://immerse-ocean.eu/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2021 06 16 Nemo Beta Release</title>
+      <link>https://immerse-ocean.eu/post/2021-06-16-nemo-beta-release/</link>
+      <pubDate>Wed, 16 Jun 2021 17:14:22 +0200</pubDate>
+      
+      <guid>https://immerse-ocean.eu/post/2021-06-16-nemo-beta-release/</guid>
+      <description>After 30 months of efforts and a global pandemics, the IMMERSE project team and the NEMO system team are glad to officially announce the beta-release of NEMO version 4.2 almost on time ! Congratulations to all the NEMO developpers for this major contribution to the evolution of CMEMS services.</description>
+    </item>
     
     <item>
       <title>A new forum for the NEMO users community </title>
